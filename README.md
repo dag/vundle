@@ -8,7 +8,7 @@
 
         ```console
 $ git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-        ```
+```
 
 2. Configure bundles:
 
@@ -41,7 +41,7 @@ Bundle 'git://git.wincent.com/command-t.git'
 filetype plugin indent on     " required! 
 " or 
 " filetype plugin on          " to not use the indentation settings set by plugins
-        ```
+```
 
 3. Install configured bundles:
 
