@@ -6,7 +6,7 @@
 
 1. Setup [Vundle]:
 
-```console
+        ```console
 $ git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
 
@@ -14,7 +14,7 @@ $ git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
       Sample `.vimrc`:
 
-```vim
+        ```vim
 set nocompatible               " be iMproved
 filetype off                   " required!
 
